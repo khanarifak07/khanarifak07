@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @khanarifak07
+- 👋 Hi, It's Arif
 - 🙂 Simple Personalised
-- 👀 Software Developer
-- 🌱 Flutter Developer
+- 👀 Software Developer / Flutter Developer
 - 📫 How to reach me instagram/twitter/gmail @khanarifak07
 
 
