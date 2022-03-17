@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanarifak07
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 🙂 Simple Personalised
+- 👀 Software Developer
+- 🌱 Flutter Developer
 - 📫 How to reach me instagram/twitter/gmail @khanarifak07
 
 
