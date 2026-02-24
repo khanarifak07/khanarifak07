@@ -1,7 +1,7 @@
 - 👋 Hi, It's Arif
 - 🙂 Simple Personalised
-- 👀 Full-Stack Developer | Flutter Developer (Frontend-Focused)
-- 📫 How to reach me instagram/twitter/gmail @khanarifak07
+- 👀 Full-Stack Developer | Flutter (Frontend-Focused)
+- 📫 How to reach me: Instagram/Twitter/Gmail @khanarifak07
 
 
 <!---
